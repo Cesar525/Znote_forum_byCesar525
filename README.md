@@ -10,8 +10,8 @@ and DONE...
 
 
 # Thanks to -
-[Znote](https://github.com/Znote/ZnoteAAC) for building this Open source website
-[Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
+* [Znote](https://github.com/Znote/ZnoteAAC) for building this Open source website
+* [Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
 
 # Message to Developers.
 I didn't put any of the tags on the CSS this was all done my classes to help you have a easier editing. 

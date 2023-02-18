@@ -8,6 +8,8 @@ This is a open project to contribute with [Otland](https://otland.net/) communit
 3) Copy and pasted these file to the htdocs folder if you using xampp or pass the fiel to the project page folder.
 and DONE...
 
+REMEBER --- every change if you want the forum to show counting post or not is made at the cesar525_forum_config.php file inside the cesar525 folder.
+
 
 # Thanks to & Credits -
 * [Znote](https://github.com/Znote/ZnoteAAC) for building this Open source website

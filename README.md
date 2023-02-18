@@ -17,7 +17,19 @@ and DONE...
 I didn't put any of the tags on the CSS this was all done my classes to help you have a easier editing.
 
 
-# Donation
+# Donation for upcomming updates
+
+*** Add replies post with alert of replies.
+*** Add upload avatar for each account
+*** Add pagination to post and and threads
+*** Add reaction button to post
+*** Add 20 more emojis on sceditor.
+*** Add Level under the avatar on posts ( set it up optional on/off )
+*** add HOT Topic after topic reaches over 100 posts. ( the 100 will be 
+optional which it means you will be able to change to to higher number in 
+the configuration.)
+*** Update Forum Search
+
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?campaign_id=Y9NCUY853V8B4)
 
  

@@ -8,10 +8,12 @@ This is a open project to contribute with [Otland](https://otland.net/) communit
 3) Copy and pasted these file to the htdocs folder if you using xampp or pass the fiel to the project page folder.
 and DONE...
 
+REMEBER --- every change if you want the forum to show counting post or not is made at the cesar525_forum_config.php file inside the cesar525 folder.
 
-# Thanks to -
-[Znote](https://github.com/Znote/ZnoteAAC) for building this Open source website
-[Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
+
+# Thanks to & Credits -
+* [Znote](https://github.com/Znote/ZnoteAAC) for building this Open source website
+* [Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
 
 # Message to Developers.
 I didn't put any of the tags on the CSS this was all done my classes to help you have a easier editing. 
@@ -30,8 +32,5 @@ the configuration.)
 * Update Forum Search
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?campaign_id=Y9NCUY853V8B4)
-
- 
-
 
 

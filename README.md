@@ -9,7 +9,7 @@ This is a open project to contribute with [Otland](https://otland.net/) communit
 and DONE...
 
 
-# Thanks to -
+# Thanks to & Credits -
 * [Znote](https://github.com/Znote/ZnoteAAC) for building this Open source website
 * [Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
 

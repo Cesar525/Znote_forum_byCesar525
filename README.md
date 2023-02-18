@@ -3,9 +3,9 @@ This is a Znote Forum Updated by Me.
 This is a open project to contribute with [Otland](https://otland.net/) community.
 
 # installation
-1) make sure you have all Znote SQl data table installed
-2) go to cesar525 folder and add the sql_schema.sql file to the database also.
-3) copy and pasted these file to the htdocs folder if you using xampp or pass the fiel to the project page folder.
+1) Make sure you have all Znote SQl data table installed
+2) Go to cesar525 folder and add the sql_schema.sql file to the database also.
+3) Copy and pasted these file to the htdocs folder if you using xampp or pass the fiel to the project page folder.
 and DONE...
 
 
@@ -14,8 +14,7 @@ and DONE...
 [Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
 
 # Message to Developers.
-I didn't put any of the tags on the CSS this was all done my classes to help you have a easier editing.
-
+I didn't put any of the tags on the CSS this was all done my classes to help you have a easier editing. 
 
 # Donation for upcomming updates
 

@@ -1741,7 +1741,7 @@ if ($admin && !$getCat && $create_board_show) {
             <center>
                 <font style="color: #a8a6a6;font-size:21px;">Board bottom message:</font><br> <textarea class="cesar-textarea"
                     name="admin_board_create_comment" maxlength="100" id="" cols="30" rows="10"
-                    placeholder="No more than 100 words allowed"></textarea><br><br>
+                    placeholder="No more than 100 letters allowed"></textarea><br><br>
             </center>
         </div>
        <font style="color: #a8a6a6;font-size:21px;" > Required access: </font><select class="cesar-selecting" name="admin_board_create_access">

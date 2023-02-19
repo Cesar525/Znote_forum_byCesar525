@@ -5,7 +5,7 @@ This is a open project to contribute with [Otland](https://otland.net/) communit
 # installation
 1) Make sure you have all Znote SQl data table installed
 2) Go to cesar525 folder and add the sql_schema.sql file to the database also.
-3) Copy and pasted these file to the htdocs folder if you using xampp or pass the fiel to the project page folder.
+3) Copy and pasted these file to the htdocs folder if you using xampp or pass the files to the project page folder.
 and DONE...
 
 REMEBER --- every change if you want the forum to show counting post or not is made at the cesar525_forum_config.php file inside the cesar525 folder.
@@ -16,7 +16,7 @@ REMEBER --- every change if you want the forum to show counting post or not is m
 * [Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
 
 # Message to Developers.
-I didn't put any of the tags on the CSS this was all done my classes to help you have a easier editing. 
+I didn't put any of the tags on the CSS. This was all done my classes so my editing doesn't affect yours. 
 
 # Donation for upcomming updates
 

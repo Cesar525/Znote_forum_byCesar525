@@ -36,5 +36,5 @@ the configuration.)
 Contact and Support me at my Website [Dev Let's Work Together](https://devletswork.com/)
 
 # images
-![Scheme](one.png)
-![Scheme](two.png)
+![Scheme](one.PNG)
+![Scheme](two.PNG)

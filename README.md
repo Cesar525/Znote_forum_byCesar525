@@ -38,3 +38,6 @@ Contact and Support me at my Website [Dev Let's Work Together](https://devletswo
 # images
 ![Scheme](one.PNG)
 ![Scheme](two.PNG)
+
+# License
+* ![MIT](LICENSE)

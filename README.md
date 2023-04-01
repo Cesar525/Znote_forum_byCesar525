@@ -16,7 +16,7 @@ REMEBER --- every change if you want the forum to show counting post or not is m
 * [Sceditor](https://www.sceditor.com/) for giving us a Free open open source editor (This version is edited by me also. so you wont find it at the web.)
 
 # Message to Developers.
-I didn't put any of the tags on the CSS. This was all done my classes so my editing doesn't affect yours. 
+I didn't put any of the tags on the CSS. This was all done by classes so my editing doesn't affect yours. 
 
 # Donation for upcomming updates
 
